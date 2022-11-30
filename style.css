@@ -1,0 +1,408 @@
+*{
+    margin: 00;
+    padding: 00;
+}
+
+.maindiv{
+    display: block;
+}
+
+.menu{
+    text-align: center;
+    background: rgb(3, 153, 253);
+    padding: 30px 0px;
+    
+}
+ul li{
+    display: inline-block;
+}
+ul >li a{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 40px;
+    padding: 0px 80px;
+    border: 5px solid rgb(11, 222, 241);
+    margin: 5px;
+}
+
+ul :hover a{
+    background-color: pink;
+    color: #1109f7;
+margin: 4px;
+transition: .5s;
+
+}
+
+
+
+
+
+
+
+
+
+.h11{
+    color: mistyrose;
+    background: #031bf4;
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 5px 5px 5px rgb(243, 235, 4);
+}
+.h11 span{
+    color:pink
+}
+
+.picdiv{
+text-align: left;
+margin-bottom: -5px;
+background-color: rgba(184, 17, 221, 0.284);
+position: relative;
+width: 100%;
+height: 640px;
+}
+
+.img1{
+display: inline-block;
+width: 500px;
+height: auto;
+border-radius: 50%;
+
+
+}
+
+
+
+
+
+.name{
+position: absolute;
+top: 5px;
+left: 45%;
+border: 5px solid rgb(4, 210, 252);
+box-shadow: 2px 2px 3px rgba(255, 0, 0, 0.673);
+}
+.namevitor {
+	width: 400px;
+	height: 60px;
+	background-color: rgba(0, 0, 255, 0.622);
+	text-align: center;
+	padding: 20px 100px;
+	display: inline-block;
+	color: white;
+	font-size: 21px;
+}
+.namevitor h1{
+    text-shadow: 5px 5px 5px  rgba(23, 17, 3, 0.916);
+
+}
+
+.tan{
+    width: 380px;
+    height: 5px;
+    background-color: #00b0ff;
+    position: absolute;
+    top: 27%;
+    left: 33%;
+}
+
+
+
+.tan2 {
+	width: 380px;
+	height: 5px;
+	background-color: #00b0ff;
+	position: absolute;
+	top: 27%;
+	right: 1%;
+}
+.person {
+	position: absolute;
+	top: 27%;
+	right: 23%;
+  
+    display: inline-block;
+}
+
+.person h1{display: inline-block;
+ display: inline-block;
+ text-decoration: underline;
+
+
+}
+
+
+
+
+
+.div1 {
+	height: 400px;
+	width: 330px;
+	background-color: rgba(184, 17, 221, 0.136);
+	position: absolute;
+	top: 36%;
+	right: 44.5%;text-align: center;
+    color: aliceblue;
+    border: 1px solid white;
+}
+
+.vitor1{
+height: 50px;
+width: auto;
+background-color: #0090ff;
+}
+
+.div2 {
+	height: 400px;
+	width: 330px;
+	background-color: rgba(184, 17, 221, 0.139);
+	position: absolute;
+	top: 0%;
+	left: 100%;
+	text-align: center;
+	color: white;border: 1px solid white;
+}
+.vitor2{
+height: 50px;
+width: auto;
+background-color: #8cd3fd;
+}
+
+.div3 {
+	height: 400px;
+	width: 330px;
+	background-color: rgba(184, 17, 221, 0.139);
+	position: absolute;
+	top: 0%;
+	left: 200%;
+	text-align: center;
+	color: white;
+	border: 1px solid white;
+}
+.vitor3{
+height: 50px;
+width: auto;
+background-color: #00b4ff;
+}
+.picdivlast{
+    display: block;
+    background-color:#042afe84;
+    padding: 10px;
+    margin-top: 5px;
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 30px;
+    color: aliceblue;
+    padding-bottom: 15px;
+}
+
+.p1{
+    color: black;
+    font-size: 16px;
+    display: inline-block;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.p2{
+    color: black;
+    font-size: 16px;
+    display: inline-block;
+    
+    font-weight: bold;
+}
+.p3{
+    color: black;
+    font-size: 16px;
+    display: inline-block;
+    
+    font-weight: bold;
+}
+
+
+.name1{
+    background-color: rgba(241, 10, 226, 0.795);
+display: inline-block;
+padding: 15px 30px;
+margin-left: 50px;
+border-radius: 15px;
+border: 2px dotted #031bf4;
+color: wheat;
+font-size: 17px;
+}
+
+
+.personallife{
+    background-color: rgba(11, 165, 254, 0.673);
+    width: 100%;
+    height: 700px;text-align: center;
+    position: relative;
+}
+.personallife h1{
+    display: inline-block;
+    font-weight: 900;
+    margin-top: 20px;
+    text-decoration: underline;
+    color: #1109f7;
+    text-shadow: 5px -5px 4px red;
+    text-align: right;
+}
+
+
+
+/* body */
+
+
+.body{
+    width: 80%;
+    height: 80%;
+    border: 2px dotted white;
+    margin: auto;
+    margin-top: 20px;
+}
+.body p{
+    text-align: center;
+    font-size: 17px;
+    line-height: 34px;
+}
+/* .story{
+   padding: 10px;
+  
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footerdiv{
+    width: 100%;
+    height: 200px;
+    background-color: #7d91fe;
+    position: relative;
+
+}
+.footerdiv h1{
+
+    display: block;
+    text-align: center;
+    padding-top: 15px;
+    color: aliceblue;
+    text-decoration:underline;
+}
+.span{
+  text-align: center;
+
+}
+.divicon a{
+margin: 20px;
+display: inline-block;
+font-size: 50px;
+margin-top: 30px;
+
+}
+.divicon a.a1{
+    color: rgb(0, 13, 255);
+}
+.divicon a.a2{
+    color: rgb(0, 13, 255);
+}
+.divicon a.a3{
+    color:#f7068f;
+}
+.divicon a.a4{
+    color:green;
+}
+.divicon a :hover{
+    background-color: #fff;
+    font-size: 70px;
+    
+}
+
+.lastfooter{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+}
+.last{
+ position: absolute;
+ top: 0;
+ right: 200px;
+}.last ul li{
+    display: block;
+    padding-top: 10px;
+    margin-top: 15px;
+}
+.last h1{
+    color: black;
+    text-decoration: underline;
+}
+.last1{
+ position: absolute;
+ top: 0;
+ left: 200px;
+}.last1 ul li{
+    display: block;
+    padding-top: 10px;
+    margin-top: 15px;
+}
+.last1 h1{
+    color: black;
+    text-decoration: underline;
+}
+
+/* story */
+
+
+.story{
+    background-color: rgb(236, 11, 217);
+    /* text-align: center; */
+    padding: 30px;
+  
+}
+.story a{
+    color: #000;padding: 20px;display: inline-block;
+text-decoration: none;font-size: 30px;
+background-color: rgb(226, 250, 14);
+/* text-align: center; */
+border-radius: 15px;
+
+}
+
+.story ul  li{
+    position: relative;  
+}
+.story ul li ul {
+    position: absolute;
+    z-index: 1;
+    width: 1400px;
+    visibility: hidden;
+    opacity: 0;
+    transition: .5s;
+}
+.story ul li:hover ul{
+visibility: visible;
+opacity: 1;
+transition: .5s;
+}
+
+.story ul li ul li a:hover{
+background-color: #f7068f;
+transition: .5s;
+}
+.story ul li ul li a{
+    background-color: yellow;
+     transition: .5s;
+}
